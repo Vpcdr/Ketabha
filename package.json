@@ -1,0 +1,17 @@
+{
+  "name": "ketabha",
+  "version": "1.0.0",
+  "description": "کتاب خوان - 110 عنوانی - ساخت توسط VPCDR",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "persian",
+    "books",
+    "ketab",
+    "vpcr",
+    "vpcdr"
+  ]
+}
